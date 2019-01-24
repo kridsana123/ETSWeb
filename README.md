@@ -1,6 +1,6 @@
 # ETSWeb
 1. Technology
-  * Java
+  * JAVA
   * JSP
   * HTML
   * MySQL
